@@ -26,8 +26,7 @@ echo       ----        ----    ---          ---     \  \-------/  /           --
 echo.
 echo.
 
-echo Hashmat Console v0.0.1
-echo Work Hard In Silence, Let Your Success Be Your Noise
+echo Every expert was once a beginner.
 echo.
 echo -----------------------------------------------
 echo \\            List of basic commands         \\
